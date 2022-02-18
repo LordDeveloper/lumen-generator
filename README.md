@@ -1,4 +1,4 @@
-# Lumen Generator
+# Lumen Generator [Forked from flipbox/lumen-generator]
 
 [![Total Downloads](https://poser.pugx.org/flipbox/lumen-generator/d/total.svg)](https://packagist.org/packages/flipbox/lumen-generator)
 [![Latest Stable Version](https://poser.pugx.org/flipbox/lumen-generator/v/stable.svg)](https://packagist.org/packages/flipbox/lumen-generator)
@@ -13,7 +13,7 @@ If yes, then you're in the right place.
 To use _some_ generators command in Lumen (just like you do in Laravel), you need to add this package:
 
 ```sh
-composer require flipbox/lumen-generator
+composer require jey/lumen-generator
 ```
 
 ## Configuration
